@@ -15,7 +15,7 @@ I enjoy building, breaking, and securing complex environments from lightweight L
 - $\\color{#1f6eb4}{\\text{Linux security and configuration}}$
 - $\\color{#1f6eb4}{\\text{Container security and service isolation}}$
 
-Currently preparing for the $\\color{#ff69b4}{\\text{CompTIA Security+}}$ and $\\color{#ff69b4}{\\text{OSCP}}$ certification.
+Currently preparing for the $\\color{#ff69b4}{\\text{CompTIA Security+}}$ and $\\color{#ff69b4}{\\text{CPTS}}$ certification.
 
 
 ## 🔐 $\\color{#ff69b4}{\\text{Core Skills}}$
